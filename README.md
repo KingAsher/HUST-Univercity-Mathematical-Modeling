@@ -44,4 +44,5 @@ For more details see [深圳市统计局](https://http://www.sztj.gov.cn).
 
 Having trouble with Mathematical Modeling? Check out our [百度](https://www.baidu.com) or [谷歌](https://http://www.google.cn/) and we’ll help you sort it out.（反正你问我，我也不知道，就是这么皮～）
 
-page auther:lixiaoqiang
+
+page auther:黎晓强 e-mail：250571870@qq.com 漂流瓶联系吧～

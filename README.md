@@ -1,4 +1,4 @@
-# 哈理工欧米伽小分队成员：许亚男 黎晓强 张宇
+# 哈理工欧米伽小分队成员：徐亚男 黎晓强 张宇
 
 ## 摘要
 
@@ -23,15 +23,10 @@
 ## 2.城市人才吸引力评价
 ### 3深圳市人才资源现状
 
-- Bulleted
-- List
+- 1
+- 2
+- 3
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [深圳市统计局](https://http://www.sztj.gov.cn).

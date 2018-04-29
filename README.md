@@ -1,3 +1,5 @@
+# 哈理工欧米伽小分队成员：许亚男 黎晓强 张宇
+
 ## 摘要
 
    吸引优秀人才，提高创新能力，促进社会发展已经成为各个国家，城市发展的首要目标，对城市人才吸引能力做出量化评价，本文以深圳市为例，充分认识到深圳市在人才吸引方面的优势与不足，在加大人才政策调整的力度的基础之上，优化深圳市人才吸引力水平。
@@ -8,16 +10,18 @@
 
 ## 关键字 人才吸引力；层次分析法；量化；评价
 
-### Markdown
+## 问题重述
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+问题一 本题在通过对以往相关研究的资料进行收集与分析，建立相关数学模型，量化地深圳市的人才吸引力水平进行评价，并仔细阅读，分析深圳“加大营商环境改革力度若干措施”的内容，适当调整人才吸引力评价指标体系中相关指标的重要程度，最终做出该文件对人才吸引力水平的影响的量化评价。
+问题二 在问题一原有基础上，收集相关数据，数据主要来源针对具体的不同的人才的类别，通过收集其他与深圳各方面情况相差不大的城市的人才吸引力体系中各项指标数据，横向做出对比，进一步分析深圳市在人才吸引方面的优势与不足之处，并给出可以有效的吸引人才的具体方案。
+问题三 通过对南山区相关资料的收集，在了解深圳市南山区的经济技术发展特点和相关的人才引进政策的基础之上，综合考虑人才在其发展的各个阶段的不同的动态需求，运用人才吸引力评价体系，量化的对南山区的人才吸引力水平做出评价。
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+问题分析与假设
+   （一）问题分析
+# 1.城市人才吸引力
+## 2.城市人才吸引力评价
+### 3深圳市人才资源现状
 
 - Bulleted
 - List
@@ -30,12 +34,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [深圳市统计局](https://http://www.sztj.gov.cn).
 
-### Jekyll Themes
+### 模型优缺点与改进
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KingAsher/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我们的模型最完美，就这么滴了，没得改～不信你百度问 [假装是个网页链接](https://www.baidu.com). 再次感谢我们的队长 `徐亚男` 同学背后辛苦的付出，么么哒～！.
 
-### Support or Contact
+### 参考文献
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Mathematical Modeling? Check out our [百度](https://www.baidu.com) or [谷歌](https://http://www.google.cn/) and we’ll help you sort it out.（反正你问我，我也不知道，就是这么皮～）
